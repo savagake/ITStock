@@ -14,5 +14,5 @@ following is a test for branching and merging
 - Third item
 Code	`code`
 Horizontal Rule	---
-Link	[title](https://www.example.com)
+Link	[markdown cheat sheat](https://www.markdownguide.org/cheat-sheet/)
 Image	![alt text](image.jpg)
