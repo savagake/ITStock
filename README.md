@@ -10,9 +10,9 @@ following is a test for branching and merging
 | Blockquote	| > blockquote |
 | Ordered List	| 1. First item 2. Second item 3. Third item|
 | Unordered List	|- First item|
-- Second item
+- Second item \n
 - Third item
-Code	`code`
-Horizontal Rule	---
-Link	[markdown cheat sheat](https://www.markdownguide.org/cheat-sheet/)
+Code	`code` \n
+Horizontal Rule	--- \n
+Link	[markdown cheat sheat](https://www.markdownguide.org/cheat-sheet/) \n
 Image	![alt text](image.jpg)
